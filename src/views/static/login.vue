@@ -100,7 +100,7 @@ export default defineComponent({
                         // 跳转页面
                         if (result.success) {
 
-                            that.$router.push('/');
+                            that.$router.push('/project');
                         }
                         else {
 
